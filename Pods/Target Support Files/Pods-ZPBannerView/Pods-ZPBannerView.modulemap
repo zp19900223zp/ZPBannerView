@@ -1,0 +1,6 @@
+framework module Pods_ZPBannerView {
+  umbrella header "Pods-ZPBannerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
